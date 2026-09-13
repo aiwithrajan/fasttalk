@@ -3,6 +3,9 @@
 > **Built for the AssemblyAI Voice Hackathon Week: Hack into Dictation**  
 > *Transform 4-second telegraphic thought bursts into 5 ready-to-ship production artifacts without filler noise.*
 
+🌐 **Live Demo on Vercel:** [https://fasttalk-xi.vercel.app](https://fasttalk-xi.vercel.app)  
+🎥 **Demo Video:** [Watch on GitHub](https://github.com/aiwithrajan/fasttalk/blob/main/videos/fasttalk-demo.mp4)
+
 ---
 
 ## 🏆 The Hackathon Thesis: Why FastTalk Wins
